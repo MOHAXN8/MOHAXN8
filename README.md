@@ -9,9 +9,9 @@ i do fullstack stuff, web & mobile. here is a non-exhaustive list of the stacks 
 but i can do machine-level languages and modern languages too:
 
 <p>
-  <img src="C_Programming_Language.svg.png" width="32" height="36" style="margin-right:32px;" />
-  <img src="ISO_C++_Logo.svg.png" width="32" height="36" style="margin-right:32px;" />
-  <img src="Python-logo-notext.svg.png" width="32" height="32" style="margin-right:32px;" />
+  <img src="C_Programming_Language.svg.png" width="32" height="36" style="margin-right:128px;" />
+  <img src="ISO_C++_Logo.svg.png" width="32" height="36" style="margin-right:128px;" />
+  <img src="Python-logo-notext.svg.png" width="32" height="32" style="margin-right:128px;" />
   <img src="Rust_programming_language_black_logo.svg.png" width="32" height="32" />
 </p>
 
