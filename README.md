@@ -1,10 +1,14 @@
-<img src="dante_vertical.png" align="right" width="260" />
+welcome
 
-<p align="left">Bless me with the leaf off of the tree</p>
-<p align="right">On it, I see the freedom reign</p>
-<p align="left">We are falling, the light is calling</p>
-<p align="right">Tears inside me calm me down</p>
-<p align="left">Midnight calling, mist of resolving</p>
-<p align="right">Crown me with the pure green leaf</p>
-<p align="left">Praise to my father blessed by the water</p>
-<p align="right">Black night, dark sky, the devils cry</p>
+i do fullstack stuff, web & mobile. here is a non-exhaustive list of the stacks i use:
+
+*flutter* *react* *fastapi* *postgresql* *docker* *cloudflare* *railway* *github workflow / devops*
+
+but i can do machine-level languages and modern languages too:
+
+*c lang* *c++* *rust* *python*
+
+if you want to contact me, you can send me a message on discord (mohaxn8) or an email at moudouina@gmail.com if you feel more corporate
+
+you can take a look at my team and i portfolio website here:  
+https://clochette-dev-team.xyz
