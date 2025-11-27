@@ -1,3 +1,5 @@
+<img src="dante.png" align="right" width="320" />
+
 welcome
 
 i do fullstack stuff, web & mobile. here is a non-exhaustive list of the stacks i use:
