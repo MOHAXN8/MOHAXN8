@@ -1,6 +1,6 @@
 <img src="dante.png" align="right" width="320" />
 
-welcome, i do fullstack stuff, web & mobile. here is a non-exhaustive list of the stacks i use:
+welcome. i do fullstack stuff, web & mobile. here is a non-exhaustive list of the stacks i use:
 
 <p>
   <img src="flutter.png" width="32" height="32" />
@@ -13,12 +13,6 @@ welcome, i do fullstack stuff, web & mobile. here is a non-exhaustive list of th
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="Postgresql_elephant.svg" width="32" height="33" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="Docker_Logo.png" width="32" height="7" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="logotype-dark.svg" width="32" height="9" />
 </p>
 
 but i can do machine-level languages and modern languages too:
