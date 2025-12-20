@@ -1,6 +1,6 @@
 <img src="dante.png" align="right" width="320" />
 
-welcome. i do fullstack stuff, web & mobile. here is a non-exhaustive list of the stacks i use :
+welcome. i do fullstack stuff, web & mobile. here is a non-exhaustive list of the stacks i use:
 
 <p>
   <img src="flutter.png" width="32" height="32" />
